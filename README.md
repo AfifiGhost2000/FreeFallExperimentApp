@@ -67,7 +67,7 @@ Contributions are welcome! Please follow these steps to contribute:
 - **Redux**: For state management and fetching user data such as username and profile picture.
 - **Expo**: The platform used for developing and building the app.
 - **Firebase**: The backend service for authentication.
-- **Mohammed Baroudi**: For designing and animating the app logo and other elements like loading and successful email verification badges.
+- **Mohamad Baroudi**: For designing and animating the app logo and other elements like loading and successful email verification badges.
   
 
 ## Contact
