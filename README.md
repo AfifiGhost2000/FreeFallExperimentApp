@@ -75,7 +75,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or issues, please contact:
 
 - Name: Abdulrahman Afifi
-- Email: aabdulrahmanafifi33@gmail.com
+- Email: abdulrahmanafifi33@gmail.com
 
 ---
 
