@@ -45,9 +45,9 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-![Logo](screenshots/logo.png)
-![Registration Screen](screenshots/register.png)
-![Experiment Screen](screenshots/experiment.png)
+![Logo](screenshots/app-logo.png)
+![Registration Screen](screenshots/register.jpg)
+![Experiment Screen](screenshots/main.jpg)
 
 
 ## Contributing
@@ -60,15 +60,15 @@ Contributions are welcome! Please follow these steps to contribute:
 4. **Push to the branch**.
 5. **Create a pull request**.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 - **React Native**: The framework used to build the app.
+- **Redux**: For state management and fetching user data such as username and profile picture.
 - **Expo**: The platform used for developing and building the app.
 - **Firebase**: The backend service for authentication.
+- **Mohammed Baroudi**: For designing and animating the app logo and other elements like loading and successful email verification badges.
+  
 
 ## Contact
 
