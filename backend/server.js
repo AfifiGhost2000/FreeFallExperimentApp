@@ -31,6 +31,7 @@ app.use(cors());
 
 // });
 
+//In case no ESP32 Device at hand
 app.get('/gettime', (req, res) => {
   const time = Math.random() * 10; // Simulate a random time between 0 and 10 seconds
   res.json({ time: time });
